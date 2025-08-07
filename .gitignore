@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# BLUX CLI specific
+*.log
+.bluxconfig
+*.pyc
+__pycache__/
+dist/
+build/
+*.egg-info/
+.cache/
+termux_shortcuts/
+*.deb
+*.zip
+*.tar.gz
+
+# Editor/project files
+.vscode/
+.idea/
+.DS_Store
+
+
